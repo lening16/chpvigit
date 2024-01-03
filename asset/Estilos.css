@@ -272,6 +272,29 @@ background-color: antiquewhite;
 word-spacing: 1px;
 }
 
+@media(max-width:1366){
+    .marcohead{
+        width: 100%;
+        
+    }
+}
+
+@media(max-width:1024){
+    .marcohead{
+        width: auto;
+        
+    }
+}
+
+@media(max-width:768){
+    .marcohead{
+        width: auto;
+        
+    }
+}
+
+
+
 
 
 
